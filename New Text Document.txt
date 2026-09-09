@@ -1,0 +1,5 @@
+\\cg\films\Hetta Meny\04_Textures\Vehicles\Citroen\Citroen_AO.png
+
+
+
+\\cg\films\Hetta Meny\04_Textures\Vehicles\Citroen\Citroen_Curvature.png
